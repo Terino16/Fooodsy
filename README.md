@@ -1,3 +1,23 @@
+
+Here are some of the images of the website
+
+<img width="1438" alt="Screenshot 2023-02-28 at 10 05 59 PM" src="https://user-images.githubusercontent.com/123401184/221919888-051c2e7a-986b-478f-927f-e45c6a7bb6ef.png">
+
+
+![Screenshot 2023-02-28 at 10 07 01 PM](https://user-images.githubusercontent.com/123401184/221919949-b0cd50c2-eb34-4c64-8301-28771a9f10d2.png)
+
+
+![Screenshot 2023-02-28 at 10 06 34 PM](https://user-images.githubusercontent.com/123401184/221919965-4ba3ef65-f677-4f7b-b9c3-54c96050761c.png)
+
+
+![Screenshot 2023-02-28 at 10 06 48 PM](https://user-images.githubusercontent.com/123401184/221919999-8ed151f0-b320-431b-b7ff-088d4b88fe72.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
