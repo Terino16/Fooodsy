@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import Card from '../Components/Card'
 import data from '../data/food.json'
 
-const Cartarray=[];
+
 const Filter = () => {
-  const [first, setfirst] = useState('bbqs');
+  const [first, setfirst] = useState('burgers');
   const Foodlist= data[`${first}`].slice(0, 12).map(rcrd=>{
     return(
       <Card 
@@ -25,7 +25,6 @@ const Filter = () => {
         <div className='m-auto'>
       <h2 className='text-xl text-black m-auto '> Select a Category</h2>
       <span className='grid grid-flow-col gap-5 border-black border-2 border-solid rounded-xl'>
-        <button className=" hover:bg-yellow-700 rounded-xl text-black font-bold py-3 px-4 " onClick={setstate} value="bbqs">BBQ</button>
         <button className=" hover:bg-yellow-700 rounded-xl text-black font-bold py-3 px-4 " onClick={setstate} value="breads">Bread</button>
         <button className=" hover:bg-yellow-700 rounded-xl text-black font-bold py-3 px-4 " onClick={setstate} value="burgers">Burger</button>
         <button className=" hover:bg-yellow-700 rounded-xl text-black font-bold py-3 px-4 " onClick={setstate} value="chocolates">Chocolate</button>
