@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from '../Components/Header'
 import Womentthinfood from '../Animations/Womenthinkfood.json'
 import Lottie from 'lottie-react'
 import Filter from './Filter'
